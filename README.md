@@ -1,11 +1,5 @@
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
+# Preview
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -18,7 +12,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Nguyen+Nhat+Anh">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>East Laos</b> 」
+    「 I am a developer from <b>East Laos</b> 」
     <br>
     <br>
   </samp>
@@ -42,5 +36,55 @@
   </a> 
 </p>
 <br />
+<div align="center">
+<img src="gitwall.jpg" witdh=400 height=400 />
+</div>
 
-<img src="gitwall.jpg"/>
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: anhnguyenit@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://www.facebook.com/anh.nguyenphan.9484941)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/anhnguyenit8">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anhnguyenit8&theme=monokai" alt="Anh's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anhnguyenit8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhnguyenit8&theme=monokai" alt="Anh's GitHub Contribution"/>
+  </a>
+</p>
+
+
+
